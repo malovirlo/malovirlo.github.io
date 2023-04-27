@@ -8,8 +8,8 @@ const FeatureList = [
         Svg: require("@site/static/img/easytouse.svg").default,
         description: (
             <>
-                Docusaurus was designed from the ground up to be easily
-                installed and used to get your website up and running quickly.
+                It's a simple framework, easy to use and to understand. It's a
+                good way to learn how to make a framework.
             </>
         ),
     },
@@ -18,20 +18,19 @@ const FeatureList = [
         Svg: require("@site/static/img/concentration.svg").default,
         description: (
             <>
-                Docusaurus lets you focus on your docs, and we&apos;ll do the
-                chores. Go ahead and move your docs into the <code>docs</code>{" "}
-                directory.
+                You can focus on your project, and not on the framework. It's
+                not a big framework, so you can understand it easily. I only use
+                the MVC pattern, and the router.
             </>
         ),
     },
     {
-        title: "Powered by React",
+        title: "Make by Malo",
         Svg: require("@site/static/img/engineer.svg").default,
         description: (
             <>
-                Extend or customize your website layout by reusing React.
-                Docusaurus can be extended while reusing the same header and
-                footer.
+                Hi, i'm Malo, a french student in web developpement. I made this
+                framework for my school project. I hope you will enjoy it ! 🤞
             </>
         ),
     },

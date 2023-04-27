@@ -75,7 +75,7 @@ const config = {
             },
             footer: {
                 style: "dark",
-                copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+                copyright: `Copyright © ${new Date().getFullYear()} My Project by Malo, Inc. Built with Docusaurus.`,
             },
             prism: {
                 theme: lightCodeTheme,
